@@ -1,10 +1,10 @@
-﻿# XRMToolbox Plugin: Flow Connection Reference Reassigner
+﻿# XRMToolbox Plugin: Solution Flow Connection Reference Manager
 
 ![GitHub Release](https://img.shields.io/github/v/release/MatthewTDunn/ConnectionReferenceReassignmentTool?style=flat-square)
 
 ## Overview
 
-The **Flow Connection Reference Reassigner** is a [XRMToolBox](https://www.xrmtoolbox.com/) plugin developed to provide administrators and developers with a means to inspect & bulk reassign connection references on Power Automate flows. It is primarily designed to reduce the administrative burden of manually updating connection references from user-owned accounts to service principals or system accounts, aligning with governance best practices and organizational security policies.
+The **Solution Flow Connection Reference Manager** is a [XRMToolBox](https://www.xrmtoolbox.com/) plugin developed to provide administrators and developers with a means to inspect & bulk reassign connection references on Power Automate flows. It is primarily designed to reduce the administrative burden of manually updating connection references from user-owned accounts to service principals or system accounts, aligning with governance best practices and organizational security policies.
 
 Use this tool to:
 - Audit connection references across multiple flows
